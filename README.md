@@ -11,6 +11,7 @@ Pull requests are welcome.
 | gpt-4o-mini | 0.15  | 0.60   |
 | o1          | 15.00 | 60.00  |
 | o1-mini     | 3.00  | 12.00  |
+
 For the full list of models, see [here](https://platform.openai.com/docs/models).
 
 Sample LLM call is [here](https://platform.openai.com/docs/quickstart).
@@ -27,6 +28,7 @@ Tokenizer is [here](https://platform.openai.com/tokenizer).
 | claude-3.5-sonnet | 3.00  | 15.00  |
 | claude-3.5-haiku  | 0.80  | 4.00   |
 | claude-3-haiku    | 0.25  | 1.25   |
+
 For the full list of models, see [here](https://www.anthropic.com/pricing#anthropic-api).
 
 API documentation is [here].
