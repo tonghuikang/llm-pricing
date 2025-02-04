@@ -9,8 +9,7 @@ Pull requests are welcome.
 | ----------- | ----- | ------ |
 | gpt-4o      | 2.50  | 1.25   |
 | gpt-4o-mini | 0.15  | 0.60   |
-| o1          | 15.00 | 60.00  |
-| o1-mini     | 3.00  | 12.00  |
+| o3-mini     | 1.10  | 4.40   |
 
 For the full list of models, see [here](https://platform.openai.com/docs/pricing).
 
