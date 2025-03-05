@@ -5,11 +5,11 @@ Pull requests are welcome.
 
 # OpenAI
 
-| Model       | Input | Output |
-| ----------- | ----- | ------ |
-| gpt-4o      | 2.50  | 1.25   |
-| gpt-4o-mini | 0.15  | 0.60   |
-| o3-mini     | 1.10  | 4.40   |
+| Model       | Model Name             | Input | Output |
+| ----------- | ---------------------- | ----- | ------ |
+| gpt-4o      | gpt-4o-2024-08-06      | 2.50  | 1.25   |
+| gpt-4o-mini | gpt-4o-mini-2024-07-18 | 0.15  | 0.60   |
+| o3-mini     | o3-mini-2025-01-31     | 1.10  | 4.40   |
 
 For the full list of models, see [here](https://platform.openai.com/docs/pricing).
 
@@ -22,13 +22,13 @@ You can count tokens [here](https://platform.openai.com/tokenizer).
 
 # Anthropic
 
-| Model             | Input | Output |
-| ----------------- | ----- | ------ |
-| claude-3.7-sonnet | 3.00  | 15.00  |
-| claude-3.5-haiku  | 0.80  | 4.00   |
-| claude-3-haiku    | 0.25  | 1.25   |
+| Model             | Model Name                 | Input | Output |
+| ----------------- | -------------------------- | ----- | ------ |
+| claude-3.7-sonnet | claude-3-7-sonnet-20250219 | 3.00  | 15.00  |
+| claude-3.5-haiku  | claude-3-5-haiku-20241022  | 0.80  | 4.00   |
+| claude-3-haiku    | claude-3-haiku-20240307    | 0.25  | 1.25   |
 
-For the full list of models, see [here](https://www.anthropic.com/pricing#anthropic-api).
+For the full list of models, see [here](https://docs.anthropic.com/en/docs/about-claude/models/all-models).
 
 Sample code for an LLM call is [here](https://docs.anthropic.com/en/api/getting-started).
 Instructions to count tokens are [here](https://docs.anthropic.com/en/docs/build-with-claude/token-counting).
@@ -39,13 +39,13 @@ Instructions to count tokens are [here](https://docs.anthropic.com/en/docs/build
 
 # Gemini
 
-| Model               | Input  | Output |
-| ------------------- | ------ | ------ |
-| gemini-1.5-flash    | 0.075  | 0.30   |
-| gemini-1.5-flash-8b | 0.0375 | 0.15   |
-| gemini-1.5-pro      | 1.25   | 5.00   |
+| Model               | Model Name              | Input  | Output |
+| ------------------- | ----------------------- | ------ | ------ |
+| gemini-1.5-flash    | gemini-1.5-flash-002    | 0.075  | 0.30   |
+| gemini-1.5-flash-8b | gemini-1.5-flash-8b-001 | 0.0375 | 0.15   |
+| gemini-1.5-pro      | gemini-1.5-pro-002      | 1.25   | 5.00   |
 
-For the full list of models, see [here](https://ai.google.dev/pricing) or [here](https://cloud.google.com/vertex-ai/generative-ai/pricing).
+For the full list of models, see [here](https://ai.google.dev/pricing), [here](https://ai.google.dev/gemini-api/docs/models/gemini), or [here](https://cloud.google.com/vertex-ai/generative-ai/pricing).
 
 Sample code for an LLM call is [here](https://ai.google.dev/gemini-api/docs/quickstart) or [here](https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-multimodal) (not recommended).
 Instructions to count tokens are [here](https://ai.google.dev/gemini-api/docs/quickstart).
