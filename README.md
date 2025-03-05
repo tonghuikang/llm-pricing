@@ -24,7 +24,7 @@ You can count tokens [here](https://platform.openai.com/tokenizer).
 
 | Model             | Input | Output |
 | ----------------- | ----- | ------ |
-| claude-3.5-sonnet | 3.00  | 15.00  |
+| claude-3.7-sonnet | 3.00  | 15.00  |
 | claude-3.5-haiku  | 0.80  | 4.00   |
 | claude-3-haiku    | 0.25  | 1.25   |
 
