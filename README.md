@@ -5,11 +5,12 @@ Pull requests are welcome.
 
 # OpenAI
 
-| Model       | Model Name             | Input | Output |
-| ----------- | ---------------------- | ----- | ------ |
-| gpt-4o      | gpt-4o-2024-08-06      | 2.50  | 1.25   |
-| gpt-4o-mini | gpt-4o-mini-2024-07-18 | 0.15  | 0.60   |
-| o3-mini     | o3-mini-2025-01-31     | 1.10  | 4.40   |
+| Model       | Model Name                 | Input | Output |
+| ----------- | -------------------------- | ----- | ------ |
+| gpt-4o      | gpt-4o-2024-08-06          | 2.50  | 1.25   |
+| gpt-4o-mini | gpt-4o-mini-2024-07-18     | 0.15  | 0.60   |
+| o3-mini     | o3-mini-2025-01-31         | 1.10  | 4.40   |
+| gpt-4.5     | gpt-4.5-preview-2025-02-27 | 75.00 | 150.00 |
 
 For the full list of models, see [here](https://platform.openai.com/docs/pricing).
 
