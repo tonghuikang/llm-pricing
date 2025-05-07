@@ -5,12 +5,12 @@ Pull requests are welcome.
 
 # OpenAI
 
-| Model       | Model Name                 | Input | Output |
-| ----------- | -------------------------- | ----- | ------ |
-| gpt-4o      | gpt-4o-2024-08-06          | 2.50  | 1.25   |
-| gpt-4o-mini | gpt-4o-mini-2024-07-18     | 0.15  | 0.60   |
-| o3-mini     | o3-mini-2025-01-31         | 1.10  | 4.40   |
-| gpt-4.5     | gpt-4.5-preview-2025-02-27 | 75.00 | 150.00 |
+| Model        | Model Name                 | Input | Output |
+| ------------ | -------------------------- | ----- | ------ |
+| gpt-4o       | gpt-4o-2024-08-06          | 2.50  | 1.25   |
+| gpt-4.1-nano | gpt-4.1-nano-2025-04-14    | 0.10  | 0.40   |
+| o4-mini      | o4-mini-2025-04-16         | 1.10  | 4.40   |
+| gpt-4.5      | gpt-4.5-preview-2025-02-27 | 75.00 | 150.00 |
 
 For the full list of models, see [here](https://platform.openai.com/docs/pricing).
 
@@ -18,7 +18,7 @@ Sample code for an LLM call is [here](https://platform.openai.com/docs/quickstar
 You can count tokens [here](https://platform.openai.com/tokenizer).
 
 [Batch mode](https://platform.openai.com/docs/guides/batch) provides 50% discount with a 24-hour turnaround time.
-[Prompt caching](https://platform.openai.com/docs/guides/prompt-caching) provides 50% discount. Caching is available after 1024 tokens with increments of 128 tokens. You automatically opt in without additional costs. The cache has a 5-10 minute lifetime and refreshes upon use.
+[Prompt caching](https://platform.openai.com/docs/guides/prompt-caching) provides 50% ~ 75% discount. Caching is available after 1024 tokens with increments of 128 tokens. You automatically opt in without additional costs. The cache has a 5-10 minute lifetime and refreshes upon use.
 
 
 # Anthropic
