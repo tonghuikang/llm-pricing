@@ -5,12 +5,12 @@ Pull requests are welcome.
 
 # OpenAI
 
-| Model        | Model Name                 | Input | Output |
-| ------------ | -------------------------- | ----- | ------ |
-| gpt-4o       | gpt-4o-2024-08-06          | 2.50  | 1.25   |
-| gpt-4.1-nano | gpt-4.1-nano-2025-04-14    | 0.10  | 0.40   |
-| o4-mini      | o4-mini-2025-04-16         | 1.10  | 4.40   |
-| gpt-4.5      | gpt-4.5-preview-2025-02-27 | 75.00 | 150.00 |
+| Model          | Model Name                   | Input | Output |
+| -------------- | ---------------------------- | ----- | ------ |
+| `gpt-4o`       | `gpt-4o-2024-08-06`          | 2.50  | 1.25   |
+| `gpt-4.1-nano` | `gpt-4.1-nano-2025-04-14`    | 0.10  | 0.40   |
+| `o4-mini`      | `o4-mini-2025-04-16`         | 1.10  | 4.40   |
+| `gpt-4.5`      | `gpt-4.5-preview-2025-02-27` | 75.00 | 150.00 |
 
 For the full list of models, see [here](https://platform.openai.com/docs/pricing).
 
@@ -23,12 +23,12 @@ You can count tokens [here](https://platform.openai.com/tokenizer).
 
 # Anthropic
 
-| Model              | Model Name                 | Input  | Output |
-| ------------------ | -------------------------- | ------ | ------ |
-| claude-opus-4-0    | claude-opus-4-20250514	    | 15.00  | 75.00  |
-| claude-sonnet-4-0	 | claude-sonnet-4-20250514	  | 3.00   | 15.00  |
-| claude-3.5-haiku   | claude-3-5-haiku-20241022  | 0.80   | 4.00   |
-| claude-3-haiku     | claude-3-haiku-20240307    | 0.25   | 1.25   |
+| Model                | Model Name                  | Input  | Output |
+| -------------------- | --------------------------- | ------ | ------ |
+| `claude-opus-4-0`    | `claude-opus-4-20250514`	   | 15.00  | 75.00  |
+| `claude-sonnet-4-0`	 | `claude-sonnet-4-20250514`  | 3.00   | 15.00  |
+| `claude-3.5-haiku`   | `claude-3-5-haiku-20241022` | 0.80   | 4.00   |
+| `claude-3-haiku`     | `claude-3-haiku-20240307`   | 0.25   | 1.25   |
 
 For the full list of models, see [here](https://docs.anthropic.com/en/docs/about-claude/models/all-models).
 
@@ -41,11 +41,11 @@ Instructions to count tokens are [here](https://docs.anthropic.com/en/docs/build
 
 # Gemini
 
-| Model               | Model Name              | Input  | Output |
-| ------------------- | ----------------------- | ------ | ------ |
-| gemini-1.5-flash    | gemini-1.5-flash-002    | 0.075  | 0.30   |
-| gemini-1.5-flash-8b | gemini-1.5-flash-8b-001 | 0.0375 | 0.15   |
-| gemini-1.5-pro      | gemini-1.5-pro-002      | 1.25   | 5.00   |
+| Model                 | Model Name                | Input  | Output |
+| --------------------- | ------------------------- | ------ | ------ |
+| `gemini-1.5-flash`    | `gemini-1.5-flash-002`    | 0.075  | 0.30   |
+| `gemini-1.5-flash-8b` | `gemini-1.5-flash-8b-001` | 0.0375 | 0.15   |
+| `gemini-1.5-pro`      | `gemini-1.5-pro-002`      | 1.25   | 5.00   |
 
 For the full list of models, see [here](https://ai.google.dev/pricing), [here](https://ai.google.dev/gemini-api/docs/models/gemini), or [here](https://cloud.google.com/vertex-ai/generative-ai/pricing).
 
